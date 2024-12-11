@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header {
+    /* debug */
+    height: 80px;
+    width: 100%;
+    background-color: rgb(51, 51, 51);
+}
+.container {
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
