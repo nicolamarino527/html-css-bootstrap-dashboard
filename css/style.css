@@ -9,8 +9,7 @@
     width: 100%;
     background-color: rgb(51, 51, 51);
 }
-.container {
+/* #container {
     display: flex;
-    padding-left: 5%;
-    padding-right: 5%;
-}
+    flex-wrap: wrap;
+} */
