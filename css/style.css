@@ -3,13 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 #header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     /* debug */
-    height: 80px;
+    height: 70px;
     width: 100%;
     background-color: rgb(51, 51, 51);
 }
-/* #container {
+#logo {
+    width: 60px;
+}
+.nav {
+    color: rgb(115, 115, 115);
+}
+.logo-nav {
     display: flex;
-    flex-wrap: wrap;
-} */
+    align-items: center;
+    gap: 10px;
+}
+/* hoover */
+.nav:hover {
+    color: #fff;
+}
