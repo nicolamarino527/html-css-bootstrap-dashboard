@@ -24,6 +24,9 @@
     align-items: center;
     gap: 10px;
 }
+.container-form{
+    padding-top: 5%;
+}
 /* hoover */
 .nav:hover {
     color: #fff;
